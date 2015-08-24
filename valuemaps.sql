@@ -1,18 +1,3 @@
-/*
-Navicat MySQL Data Transfer
-
-Source Server         : pmysql52
-Source Server Version : 50621
-Source Host           : pmysql52.rmz.gomo.com:3306
-Source Database       : zabbix_new
-
-Target Server Type    : MYSQL
-Target Server Version : 50621
-File Encoding         : 65001
-
-Date: 2015-08-10 17:47:59
-*/
-
 SET FOREIGN_KEY_CHECKS=0;
 
 -- ----------------------------
