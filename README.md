@@ -17,3 +17,6 @@ Attention,please view two sql files before you import them.
 在导入之前，请先执行两个sql文件，我用了一下对应值在里面.
 
 注意,默认会删掉之前的数据,请自行修改.
+
+##截图
+![]()
