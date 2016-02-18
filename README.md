@@ -19,4 +19,5 @@ Attention,please view two sql files before you import them.
 注意,默认会删掉之前的数据,请自行修改.
 
 ##截图
-![]()
+
+![](https://github.com/0312birdzhang/Template-SNMP-A10/blob/master/zzh.jpg)
